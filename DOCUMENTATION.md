@@ -200,8 +200,12 @@ To set up and deploy the API, follow these steps:
    npm start
    ```
 
-   The API will run on port 8888 by default.
+   The API will run on port 3000 by default.
 
 ---
 
-Happy Coding! :smile:
+
+
+Try this markdown:
+
+![UML DIAGRAM](./src/images/UML_Diagram(1).png)
