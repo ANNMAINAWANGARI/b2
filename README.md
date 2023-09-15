@@ -1,17 +1,17 @@
-# HNG-backend-task-two
+# Test-backend-task
 
-A simple REST API capable of CRUD operations with Node.js, Express and Postgres.
+A simple REST API capable of CRUD operations with Node.js, Express and MONGODB.
 
 # Requirements
 
 Node
 Express
-Postgres
+MONGODB
 
 # Installation
 
 Requirements
-You need postgres installed and running on your computer.
+You need NODE installed  on your computer.
 
 # Usage
 
