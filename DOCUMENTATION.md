@@ -26,7 +26,7 @@
   [
     {
       "_id": "user_id",
-      "name": "person_name"
+      "name": "user_name"
     },
     
   ]
@@ -41,7 +41,7 @@
 - Request Body:
   ```json
   {
-    "name": "person_name"
+    "name": "user_name"
   }
   ```
 
@@ -51,7 +51,7 @@
 - Response Body:
   ```json
   {
-    "name": "user name.",
+    "name": "user_name.",
     "_id": "user_id"
   }
   ```
@@ -83,7 +83,7 @@
 - Request Body:
   ```json
   {
-    "name": "updated_name",
+    "name": "user_name",
     "id":"user_id"
   }
   ```
